@@ -1,0 +1,6 @@
+framework module SHPAnalytic {
+  umbrella header "SHPAnalytic-umbrella.h"
+
+  export *
+  module * { export * }
+}

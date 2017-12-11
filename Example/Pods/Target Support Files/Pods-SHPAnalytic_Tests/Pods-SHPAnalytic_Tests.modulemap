@@ -1,0 +1,6 @@
+framework module Pods_SHPAnalytic_Tests {
+  umbrella header "Pods-SHPAnalytic_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - SHPAnalytic (0.1.0)
+
+DEPENDENCIES:
+  - SHPAnalytic (from `../`)
+
+EXTERNAL SOURCES:
+  SHPAnalytic:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SHPAnalytic: a5d69ed42ef78feb7c0a8ccc63f77eeaa137ec70
+
+PODFILE CHECKSUM: 9cd93a6367e77fe77e94db900fd83c05f3e61ebd
+
+COCOAPODS: 1.3.1
