@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SHPAnalytic_Tests' do
+  pod 'SHPAnalytic', :path => '../'
+  
+  
+end
